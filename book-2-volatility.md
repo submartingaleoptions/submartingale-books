@@ -1,27 +1,3 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "Earn Profits From Rising Market Volatility",
-  "author": {
-    "@type": "Person",
-    "name": "Sub Martingale"
-  },
-  "bookFormat": "https://schema.org/EBook",
-  "inLanguage": "en",
-  "identifier": [
-    {
-      "@type": "PropertyValue",
-      "propertyID": "ASIN",
-      "value": "B0DJ5WW4L3"
-    }
-  ],
-  "sameAs": [
-    "https://www.amazon.com/dp/B0DJ5WW4L3",
-    "https://submartingaleoptions.github.io/submartingale-books"
-  ]
-}
-</script>
 
 # Earn Profits From Rising Market Volatility
 
@@ -79,3 +55,18 @@ Not investment advice. Options involve risk, including loss of principal. Past p
 ## Cite
 APA: Martingale, S. (2024). *Earn Profits From Rising Market Volatility*. Kindle ed. ASIN B0DJ5WW4L3.  
 Chicago: Martingale, Sub Martingale. *Earn Profits From Rising Market Volatility*. Kindle edition, 2024. ASIN B0DJ5WW4L3.
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Book",
+  "name":"Earn Profits From Rising Market Volatility",
+  "author":{"@type":"Person","name":"Sub Martingale"},
+  "bookFormat":"EBook",
+  "asin":"B0DJ5WW4L3",
+  "url":"https://submartingaleoptions.github.io/submartingale-books/book-2-volatility",
+  "sameAs":[
+    "https://www.amazon.com/dp/B0DJ5WW4L3"
+  ]
+}
+</script>
