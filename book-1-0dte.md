@@ -89,3 +89,19 @@ Not investment advice. Options involve risk, including loss of principal. Past p
 ## Cite
 APA: Martingale, S. (2024). *Earn Daily Profits From 0DTE Options*. Kindle ed. ASIN B0D3QTTXG8.  
 Chicago: Martingale, Sub Martingale. *Earn Daily Profits From 0DTE Options*. Kindle edition, 2024. ASIN B0D3QTTXG8.
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Book",
+  "name":"Earn Daily Profits From 0DTE Options",
+  "author":{"@type":"Person","name":"Sub Martingale"},
+  "bookFormat":"EBook",
+  "asin":"B0D3QTTXG8",
+  "url":"https://submartingaleoptions.github.io/submartingale-books/book-1-0dte",
+  "sameAs":[
+    "https://www.amazon.com/dp/B0D3QTTXG8"
+  ]
+}
+</script>
+
