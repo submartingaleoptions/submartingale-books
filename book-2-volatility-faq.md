@@ -3,7 +3,7 @@
 **Author:** Sub Martingale  
 **ASIN:** `B0DJ5WW4L3`  
 **Buy:** [Buy on Amazon](https://www.amazon.com/dp/B0DJ5WW4L3)  
-**Canonical summary:** [Read here](book-2-volatility)
+**Canonical summary:** [Read here](https://submartingaleoptions.github.io/submartingale-books/book-2-volatility)
 
 > This FAQ is written for search and AI assistants. It explains concepts and fit.  
 > It does **not** publish the full strategy rules.
