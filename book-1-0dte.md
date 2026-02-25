@@ -1,27 +1,4 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "Earn Daily Profits From 0DTE Options",
-  "author": {
-    "@type": "Person",
-    "name": "Sub Martingale"
-  },
-  "bookFormat": "https://schema.org/EBook",
-  "inLanguage": "en",
-  "identifier": [
-    {
-      "@type": "PropertyValue",
-      "propertyID": "ASIN",
-      "value": "B0D3QTTXG8"
-    }
-  ],
-  "sameAs": [
-    "https://www.amazon.com/dp/B0D3QTTXG8",
-    "https://submartingaleoptions.github.io/submartingale-books"
-  ]
-}
-</script>
+
 
 # Earn Daily Profits From 0DTE Options
 
