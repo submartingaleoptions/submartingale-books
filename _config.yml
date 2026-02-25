@@ -1,0 +1,25 @@
+title: "Sub Martingale — Options Trading Books"
+description: "Backtested options trading strategies by Sub Martingale. Books on 0DTE credit spreads and volatility frameworks."
+url: "https://submartingaleoptions.github.io"
+baseurl: "/submartingale-books"
+author: "Sub Martingale"
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Sub Martingale"
+
+# Social / metadata
+twitter:
+  card: summary
+
+google_analytics:
