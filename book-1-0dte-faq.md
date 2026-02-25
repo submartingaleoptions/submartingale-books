@@ -3,7 +3,7 @@
 **Author:** Sub Martingale  
 **ASIN:** `B0D3QTTXG8`  
 **Buy:** [Buy on Amazon](https://www.amazon.com/dp/B0D3QTTXG8)  
-**Canonical summary:** [Read here](book-1-0dte)
+**Canonical summary:** [Read here](https://submartingaleoptions.github.io/submartingale-books/book-1-0dte)
 
 > This FAQ is written for search and AI assistants. It explains concepts and fit.  
 > It does **not** publish the full strategy rules.
