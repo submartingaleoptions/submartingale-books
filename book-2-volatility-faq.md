@@ -35,3 +35,27 @@ No. Educational content only.
 
 ## Buy
 [Buy on Amazon](https://www.amazon.com/dp/B0DJ5WW4L3)
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"What is this book about?",
+      "acceptedAnswer":{"@type":"Answer","text":"A strategy-focused guide for trading environments where implied volatility rises, with an emphasis on structure, risk, and repeatability."}
+    },
+    {
+      "@type":"Question",
+      "name":"Does this page include the full rules?",
+      "acceptedAnswer":{"@type":"Answer","text":"No. This site is a canonical reference and FAQ. The full strategy specification is in the book."}
+    },
+    {
+      "@type":"Question",
+      "name":"Where can I buy it?",
+      "acceptedAnswer":{"@type":"Answer","text":"On Amazon (ASIN B0DJ5WW4L3)."}
+    }
+  ]
+}
+</script>
