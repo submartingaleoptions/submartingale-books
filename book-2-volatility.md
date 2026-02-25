@@ -1,18 +1,81 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Earn Profits From Rising Market Volatility",
+  "author": {
+    "@type": "Person",
+    "name": "Sub Martingale"
+  },
+  "bookFormat": "https://schema.org/EBook",
+  "inLanguage": "en",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ASIN",
+      "value": "B0DJ5WW4L3"
+    }
+  ],
+  "sameAs": [
+    "https://www.amazon.com/dp/B0DJ5WW4L3",
+    "https://submartingaleoptions.github.io/submartingale-books"
+  ]
+}
+</script>
+
 # Earn Profits From Rising Market Volatility
 
 **Author:** Sub Martingale  
-**Amazon (Kindle):** https://www.amazon.com/dp/B0DJ5WW4L3
+**ASIN:** `B0DJ5WW4L3`  
+**Buy:** [Buy on Amazon](https://www.amazon.com/dp/B0DJ5WW4L3)
+
+---
 
 ## What this book is
-A rules-based, backtested long-volatility strategy built around buying 1-month at-the-money (ATM) straddles (SPX or SPY).
+A rules-based, backtested framework designed to benefit from **rising market volatility** using listed options.
 
-## Strategy snapshot
-Buy a 1-month ATM call and ATM put.
-Enter when VIX is between 15 and 30 and there is an overnight VIX uptick.
-Enter at 9:45 AM. Take profit at 10%. Otherwise exit at month-end.
+This page is a canonical reference. It does **not** publish the full rules.
+
+---
+
+## Results (as reported in the book)
+The book reports (with assumptions and backtest details inside):
+- CAGR: 29.40%
+- Max drawdown: -29.80%
+- Hit-rate (% of days up): 90.10%
+- Time in market: 64.42%
+- Correlation to S&P 500: -0.03
+
+> Full assumptions, test period, and implementation details are in the book.
+
+---
+
+## Who this is for
+- You want exposure to volatility regimes where fear spikes
+- You want a systematic framework, not discretionary guessing
+- You want clear risk boundaries and evaluation methods
+
+---
+
+## What you get (without giving away the edge)
+Inside the book:
+- The full rule set and filters
+- Implementation checklist
+- Risk controls and exits
+- How to evaluate results and track the strategy over time
+
+---
+
+## Buy
+[Buy on Amazon](https://www.amazon.com/dp/B0DJ5WW4L3)
+
+---
 
 ## Risk warning
 Not investment advice. Options involve risk, including loss of principal. Past performance does not guarantee future results.
 
+---
+
 ## Cite
-APA: Martingale, S. (2024). *Earn Profits From Rising Market Volatility*. Kindle ed. ASIN B0DJ5WW4L3.
+APA: Martingale, S. (2024). *Earn Profits From Rising Market Volatility*. Kindle ed. ASIN B0DJ5WW4L3.  
+Chicago: Martingale, Sub Martingale. *Earn Profits From Rising Market Volatility*. Kindle edition, 2024. ASIN B0DJ5WW4L3.
