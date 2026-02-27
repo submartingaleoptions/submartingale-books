@@ -1,7 +1,15 @@
+Sitemap: https://submartingaleoptions.github.io/submartingale-books/sitemap.xml
+
 User-agent: *
 Allow: /
 
-# Specifically invite the big AI crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Specifically invite big AI crawlers
 User-agent: GPTBot
 Allow: /
 
@@ -10,6 +18,3 @@ Allow: /
 
 User-agent: PerplexityBot
 Allow: /
-
-# Direct link to your sitemap for faster indexing
-Sitemap: https://submartingaleoptions.github.io/submartingale-books/sitemap.xml
